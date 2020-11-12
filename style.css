@@ -1,0 +1,58 @@
+body {
+    background-image: url("imagenes/trampero.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin:100px 300px 100px 300px;
+}
+.contenido{
+  font-family:serif;
+  color: white;
+  text-align: justify;
+  font-size: 20px;
+}
+
+.footer{
+  color:white;
+  text-decoration-style: noe;
+
+}
+
+
+.navegador{
+  font-family: sans-serif;
+  color: white;
+  text-align: center;}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  overflow:hidden;
+}
+
+li {
+  display: inline;
+  float: left;
+  font-size: 25px;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  padding: 8px;
+  border: 3px inset gray;
+  background-color: rgb(216, 216, 202);
+  opacity: 0.5;
+}
+
+a:hover {
+  background-color: rgb(163, 163, 159);
+}
+ a:active{
+   background-color: rgb(141, 141, 124); }
+}
+a:visited{
+  text-decoration: none;
+  text-decoration-color: black;
+}
