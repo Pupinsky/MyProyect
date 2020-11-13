@@ -1,3 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html{
+  font-family: 'Roboto', sans-seri
+}
 body {
     background-image: url("imagenes/trampero.png");
     background-repeat: no-repeat;
@@ -9,7 +17,7 @@ body {
 
 /*Barra de navegación---------------------------------------------------------*/
  .navegador_1 {
-   font-family: serif;
+    font-family: 'Roboto', sans-seri
  }
 
 .ul_nav {
