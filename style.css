@@ -1,10 +1,14 @@
 body {
-    background-image: url("imagenes/trampero.png");
+    background-image: url("https://i.ibb.co/yp4nSnY/trampero.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     margin:100px 300px 100px 300px;
     font-family: serif;
+    max-width: 700px;
+    text-align: justify;
+    color: white;
+    font-size: 20px;
 }
 
 /*Barra de navegación---------------------------------------------------------*/
