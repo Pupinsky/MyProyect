@@ -5,7 +5,7 @@ body {
     background-attachment: fixed;
     margin:100px 300px 100px 300px;
     font-family: serif;
-    max-width: 700px;
+    max-width: 100%;
     text-align: justify;
     color: white;
     font-size: 20px;
