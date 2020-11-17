@@ -34,7 +34,7 @@ body {
   opacity: 0.4;}
 
 .li_nav {
-   float: left;
+  display: inline;
    border-right: 1px solid white;}
 
 .li_nav:last-child{
